@@ -1,0 +1,14 @@
+#intro{
+    color: white;
+    font-family: sans-serif;
+    background-color: black;
+    font-weight: 900;
+    text-decoration: overline;
+}
+#name{
+    color: rgb(205, 243, 255);
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+    font-weight: 900;
+    text-decoration: wavy;
+}
